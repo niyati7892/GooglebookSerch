@@ -13,8 +13,8 @@ The user should be able to:
   * user can delete from save 
 
 ### App screenshot
-![screenshot1](https://github.com/niyati7892/-Workout-Tracker/blob/main/shot1.png)
-![screenshot2](https://github.com/niyati7892/-Workout-Tracker/blob/main/shot2.png)
+![screenshot1]()
+![screenshot2]()
 
 ## Table of contents
 
@@ -26,7 +26,7 @@ The user should be able to:
 
 ## Usage
 
-Go to [GooglebookSerc](https://peaceful-journey-20198.herokuapp.com/) and save your workouts
+Go to [GooglebookSerc](https://floating-castle-77060.herokuapp.com/) and save your workouts
 
 ## Licence
 
@@ -39,6 +39,6 @@ Go to [GooglebookSerc](https://peaceful-journey-20198.herokuapp.com/) and save y
 
 ## Repository
 
-- [Project Repo](https://github.com/niyati7892/-Workout-Tracker)
-- [GooglebookSerc](https://peaceful-journey-20198.herokuapp.com/)
+- [Project Repo](https://github.com/niyati7892/GooglebookSerch)
+- [GooglebookSerc](https://floating-castle-77060.herokuapp.com/)
 
